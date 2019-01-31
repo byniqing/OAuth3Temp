@@ -1,0 +1,11 @@
+F:\core\StudyCore\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.deps.json
+F:\core\StudyCore\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.json
+F:\core\StudyCore\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.dev.json
+F:\core\StudyCore\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.dll
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.csproj.CoreCompileInputs.cache
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfoInputs.cache
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfo.cs
+F:\core\StudyCore\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.pdb
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.dll
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.pdb
+F:\core\StudyCore\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\core\StudyCore\AuthorizationClient\bin\Debug\netcoreapp2.0\AuthorizationClient.deps.json
+F:\core\StudyCore\AuthorizationClient\bin\Debug\netcoreapp2.0\AuthorizationClient.runtimeconfig.json
+F:\core\StudyCore\AuthorizationClient\bin\Debug\netcoreapp2.0\AuthorizationClient.runtimeconfig.dev.json
+F:\core\StudyCore\AuthorizationClient\bin\Debug\netcoreapp2.0\AuthorizationClient.dll
+F:\core\StudyCore\AuthorizationClient\bin\Debug\netcoreapp2.0\AuthorizationClient.pdb
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.csproj.CoreCompileInputs.cache
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.AssemblyInfoInputs.cache
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.AssemblyInfo.cs
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.dll
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.pdb
+F:\core\StudyCore\AuthorizationClient\obj\Debug\netcoreapp2.0\AuthorizationClient.csprojResolveAssemblyReference.cache
